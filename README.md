@@ -61,6 +61,11 @@ The dashboard uses pandas for data manipulation and Plotly for interactive visua
 - Error rate trends
 - Character count analysis
 
+
+## Flow
+
+![System Flow Diagram](mistral.png)
+
 ## Setup
 
 ### Prerequisites
